@@ -6,6 +6,9 @@ In This Analysis, The Key Question For The Customer Success Team Is: Why Do Some
 
 🔗 Data Studio Link: https://datastudio.google.com/reporting/1ad61056-d09d-4d7e-b066-8a0ff8f8d3da 🔗
 
+👀 You Can Access The Dataset Using The Link Below. 👀
+🔗 Drive Link: https://drive.google.com/drive/folders/1Pl96h52PCHhbd6odnLHT1tLuCiW08OoV?usp=sharing
+
 **🔄 Project Workflow:** The Workflow Started With Uploading The Raw Airbnb CSV Files To Google BigQuery. The Data Was Then Explored, Cleaned And Transformed Using SQL Queries, With Each Query Executed Sequentially To Prepare The Required Tables. After Creating The Final Analysis Table, It Was Connected To Google Looker Studio, Where Dynamic Calculations And Interactive Visualizations Were Created To Analyze The Key Relationships Identified In The Project.
 
 🤖 Technologies Used: Google BigQuery | Data Studio 🤖
